@@ -21,5 +21,3 @@ networks:
 volumes:
   db:
 
-git config --global user.name "mahmoudaboabida"
-git config --global user.email "mahmoudaboabida@gmail.com"
